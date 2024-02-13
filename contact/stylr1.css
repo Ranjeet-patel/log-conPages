@@ -11,13 +11,13 @@
 
 body {
    
-           background-image: url('./3817256.jpg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
-            background-size: cover; /* Adjust the background size to cover the entire viewport */
-            background-position: center; /* Center the background image */
-            background-repeat: no-repeat; /* Do not repeat the background image */
-            margin: 0; /* Remove default margin */
-            padding: 0; /* Remove default padding */
-            width: 100vw; /* Sets the width to 100% of the viewport width */
+           /* background-image: url('./3817256.jpg'); Replace 'path/to/your/image.jpg' with the actual path to your image */
+            background-size: cover; 
+            background-position: center; 
+            background-repeat: no-repeat; 
+            margin: 0;
+            padding: 0; 
+            width: 100vw; 
             height: 100%;
             
 }
@@ -32,7 +32,8 @@ body {
     border-radius: 15px;
     border-radius: 25px;
     border: 0px solid #5a7a99;
-    box-shadow: 13px 13px 20px #5a7a99, -13px -13px 20px #5a7a99;
+    /* box-shadow: 13px 13px 20px #868788, -13px -13px 20px #9b9c9d; */
+    box-shadow: 13px 13px 20px #868788;
 }
 
 .logo {
